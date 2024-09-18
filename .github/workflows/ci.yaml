@@ -1,8 +1,8 @@
-name: EstudoDeCaso
+name: ci
 
 on:
   push:
-    branches: ["dev"]
+    branches: ["ci"]
 
 permissions:
   issues: write
