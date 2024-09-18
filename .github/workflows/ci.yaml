@@ -2,7 +2,7 @@ name: Estudo
 
 on:
   push:
-    branches: ["master"]
+    branches: ["ci"]
 
 permissions:
   issues: write
