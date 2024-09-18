@@ -12,7 +12,7 @@ A simple web application to store your To-Do Tasks .
 Execute the following command to install the required third party libraries:
 
 ```pip3 install -r requirements.txt```
-
+.
 # Usage
 
 1. Clone the repository using the following command
