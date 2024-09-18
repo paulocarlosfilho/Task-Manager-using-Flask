@@ -1,4 +1,4 @@
-name: ci
+name: Estudo
 
 on:
   push:
@@ -17,4 +17,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build the Docker image
-        run: docker build -t $(date +%s) .
+        run: docker build -t $(date +%s) .
